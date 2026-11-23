@@ -25,6 +25,7 @@
       - 62% of deposit customers hold no investment account with the bank
       - Competitors offer digital advice from \$0 minimums
       - Younger clients expect to open accounts on their phone
+      - Accounts under \$250,000 are 70% of the client base
     ]
 
     #section(2, [What did we do?])[
@@ -34,10 +35,19 @@
         ([Model], [Cost and revenue for 3 channels]),
       )
       #v(0.3in)
-      We compared a fully human, a hybrid and a fully digital service on cost to serve, expected demand and operational risk.
+      We compared a fully human, a hybrid and a fully digital service on cost to serve, expected demand and operational risk, using the bank's 2025 cost data and vendor quotes.
     ]
 
     #stat([3 in 10], [surveyed customers would open a digital account within a year], note: [Survey of 840 deposit customers, October 2026.])
+    #v(0.6in)
+
+    #callout(title: [What advisors told us])[
+      - Small accounts take as much time as large ones
+      - Clients want a person for retirement and estate decisions
+      - Routine rebalancing is where most hours go
+      - Digital tools would free time for prospecting
+      - Clients under 40 rarely visit a branch
+    ]
   ],
 
   // ---------------------------------------------------------- column 2
@@ -64,6 +74,8 @@
         [Break-even account], [\$145,000], [\$124,000], [\$15,000],
         [Launch time], [n/a], [9 months], [4 months],
       )
+      #v(0.2in)
+      The hybrid service keeps advisors for the decisions clients value most, retirement, estates and taxes, and lets software handle rebalancing. It also reaches clients the bank turns away today.
     ]
   ],
 
@@ -74,6 +86,12 @@
         image("figures/aum-scenarios.png", alt: "Line chart of assets on the platform from 2027 to 2032 under three scenarios. All start at 40 million dollars; the high-adoption case reaches about 360 million, the base case about 180 million and the low case about 80 million."),
         caption: [Assets on the platform under three adoption scenarios.],
       )
+    ]
+
+    #section(6, [What could go wrong?])[
+      - *Vendor dependence.* Negotiate data access and an exit clause.
+      - *Advisor resistance.* Credit advisors for referred digital clients.
+      - *Weak adoption.* Set a 12-month target before scaling up.
     ]
 
     #callout(title: [What we are unsure about])[
